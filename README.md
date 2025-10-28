@@ -105,14 +105,6 @@ The application uses JSON messages with these types:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-[Rishi Ramesh](https://github.com/Rishi2005cs)
-
 ## Acknowledgments
 
 - Built with Python's socket and threading modules
