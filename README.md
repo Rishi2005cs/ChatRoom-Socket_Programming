@@ -111,7 +111,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Your Name - [Rishi Ramesh](https://github.com/Rishi2005cs)
+[Rishi Ramesh](https://github.com/Rishi2005cs)
 
 ## Acknowledgments
 
